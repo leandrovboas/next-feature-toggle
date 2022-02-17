@@ -1,2 +1,1 @@
-# next-feature-toggle
-Exemplo de uma feature toggle usando o nextjs 
+Exemplo de criação de um Feature Toggle usando Next.js
